@@ -31,6 +31,7 @@ int main(int argc,char *argv[])
 	}
 	else
 	{
+		printf("parent");
 		sleep(2);    // parent
 	}
 
